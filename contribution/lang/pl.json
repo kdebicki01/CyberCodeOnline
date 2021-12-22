@@ -1,7 +1,7 @@
 {
  	"tabs": {
  	 	"inventory": {
- 	 	 	"trans": "Spis",
+ 	 	 	"trans": "Inwentarz",
  	 	 	"eng": "Inventory"
  	 	},
  	 	"quest": {
@@ -32,7 +32,7 @@
  	 	 	 	"eng": "You can purchase global buff items here"
  	 	 	},
  	 	 	"canAccessError": {
- 	 	 	 	"trans": "You need to be at least level 5 to access unit exchange",
+ 	 	 	 	"trans": "Aby uzyskać dostęp do wymiany jednostek, musisz mieć co najmniej 5 poziom",
  	 	 	 	"eng": "You need to be at least level 3 to access unit exchange"
  	 	 	}
  	 	},
@@ -42,11 +42,11 @@
  	 	 	 	"eng": "Cosmetic Cyberwear"
  	 	 	},
  	 	 	"tut": {
- 	 	 	 	"trans": "If you like the game, please consider donating :)",
+ 	 	 	 	"trans": "Jeśli podoba Ci się ta gra, rozważ darowiznę :)",
  	 	 	 	"eng": "If you liked the game, please consider donation :)"
  	 	 	},
  	 	 	"canAccessError": {
- 	 	 	 	"trans": "You need to be at least level 5 to access the cosmetic merchant",
+ 	 	 	 	"trans": "Aby uzyskać dostęp do sprzedawcy kosmetyków, musisz mieć co najmniej 5 poziom",
  	 	 	 	"eng": "You need to be at least level 3 to access cosmetic merchant"
  	 	 	}
  	 	},
@@ -56,13 +56,13 @@
  	 	 	 	"eng": "Molecular 3d Printer"
  	 	 	},
  	 	 	"tut": {
- 	 	 	 	"trans": "You can use your acquired Caches to print new equipment here",
+ 	 	 	 	"trans": "Możesz użyć zdobytych skrytek do wydrukowania nowego wyposażenia tutaj",
  	 	 	 	"eng": "You can use your Cache to print new equipment here"
  	 	 	}
  	 	},
  	 	"weaponSmith": {
  	 	 	"name": {
- 	 	 	 	"trans": "Broń smith",
+ 	 	 	 	"trans": "Broń Smitha",
  	 	 	 	"eng": "Weapon Smith"
  	 	 	}
  	 	},
@@ -72,15 +72,15 @@
  	 	 	 	"eng": "Terminal"
  	 	 	},
  	 	 	"tut": {
- 	 	 	 	"trans": "To progress to the next area, you need to get Secret Key Fragments from dungeons \r\n        and use the Terminal to Brute Force a key for the next area",
+ 	 	 	 	"trans": "Aby przejść do następnego obszaru, musisz zdobyć fragmenty sekretnego klucza z lochów \r\n        i użyj Terminalu do Brute Force klucza do następnego obszaru",
  	 	 	 	"eng": "To progress to the next area, you need to get Secret Key Fragments from dungeons, \r\n        and use the Terminal to Brute Force the key for next area"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "This is your personal computer. Although a little outdated, it can get the job done with enough patience",
+ 	 	 	 	"trans": "To jest twój komputer osobisty. Chociaż jest trochę przestarzały, może wykonać zadanie z wystarczającą cierpliwością",
  	 	 	 	"eng": "Your personal computer, although it's a little outdated, it can get the job done with enough patience"
  	 	 	},
  	 	 	"canAccessError": {
- 	 	 	 	"trans": "Musisz być przynajmniej 5, aby uzyskać dostęp do terminalu",
+ 	 	 	 	"trans": "Aby uzyskać dostęp do terminalu, musisz mieć co najmniej 5 poziom",
  	 	 	 	"eng": "You need to be at least level 5 to access terminal"
  	 	 	}
  	 	},
@@ -92,11 +92,11 @@
  	 	},
  	 	"bank": {
  	 	 	"name": {
- 	 	 	 	"trans": "Bank of Arasaki",
+ 	 	 	 	"trans": "Bank Arasaki",
  	 	 	 	"eng": "Bank of Arasaka"
  	 	 	},
  	 	 	"canAccessError": {
- 	 	 	 	"trans": "You need to be at least level 5 to access the bank",
+ 	 	 	 	"trans": "Aby uzyskać dostęp do banku, musisz mieć co najmniej 5 poziom",
  	 	 	 	"eng": "You need to be at least level 5 to access bank"
  	 	 	}
  	 	},
@@ -106,25 +106,25 @@
  	 	 	 	"eng": "Calibration Station"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "A workbench with the necessary tools, allowing you to tinker with your equipment.",
+ 	 	 	 	"trans": "Stół warsztatowy z niezbędnymi narzędziami, pozwalający na majstrowanie przy sprzęcie.",
  	 	 	 	"eng": "A workbench with the necessary tools allows you to tinker with your equipment."
  	 	 	},
  	 	 	"canAccessError": {
- 	 	 	 	"trans": "Musisz być przynajmniej 10, aby uzyskać dostęp do stacji kalibracyjnej",
+ 	 	 	 	"trans": "Aby uzyskać dostęp do stacji kalibracji, musisz mieć co najmniej 10 poziom",
  	 	 	 	"eng": "You need to be at least level 10 to access Calibration Station"
  	 	 	}
  	 	},
  	 	"storageMerchant": {
  	 	 	"name": {
- 	 	 	 	"trans": "Lee's Trading Post",
+ 	 	 	 	"trans": "Punkt handlowy Lee",
  	 	 	 	"eng": "Lee's Trading Post"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "A family-run trading shop that lets you trade with scavenged goods.",
+ 	 	 	 	"trans": "Rodzinny sklep handlowy, który pozwala handlować znalezionymi towarami.",
  	 	 	 	"eng": "A family run trading shop that lets you trade with what they have found while scavenging"
  	 	 	},
  	 	 	"canAccessError": {
- 	 	 	 	"trans": "Musisz być co najmniej 10, aby uzyskać dostęp do kupca",
+ 	 	 	 	"trans": "Aby uzyskać dostęp do kupca, musisz mieć co najmniej 10 poziom",
  	 	 	 	"eng": "You need to be at least level 10 to access merchant"
  	 	 	}
  	 	},
@@ -134,7 +134,7 @@
  	 	 	 	"eng": "Automatic Recycler"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Fully-automated recycler, capable of recycling items to their basic scrap form",
+ 	 	 	 	"trans": "W pełni zautomatyzowany recykling, zdolny do recyklingu przedmiotów do ich podstawowej postaci złomu",
  	 	 	 	"eng": "Fully automated recycler, capable of recycling items to their basic scrap form"
  	 	 	}
  	 	}
@@ -173,7 +173,7 @@
  	 	},
  	 	"print": {
  	 	 	"name": {
- 	 	 	 	"trans": "Ranking drukowania",
+ 	 	 	 	"trans": "Ranga drukowania",
  	 	 	 	"eng": "printing rank"
  	 	 	}
  	 	},
@@ -185,13 +185,13 @@
  	 	},
  	 	"ammo": {
  	 	 	"name": {
- 	 	 	 	"trans": "AMMO Crafting",
+ 	 	 	 	"trans": "Wytwarzanie amunicji",
  	 	 	 	"eng": "ammo crafting"
  	 	 	}
  	 	},
  	 	"scavenge": {
  	 	 	"name": {
- 	 	 	 	"trans": "Umiejętność smaczna",
+ 	 	 	 	"trans": "Umiejętność złomiarza",
  	 	 	 	"eng": "scavenge skill"
  	 	 	}
  	 	},
@@ -205,16 +205,16 @@
  	"location": {
  	 	"mainHub": {
  	 	 	"name": {
- 	 	 	 	"trans": "Shangri-La City Center",
+ 	 	 	 	"trans": "Centrum miasta Shangri-La",
  	 	 	 	"eng": "Shangri-La City center"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "[Central Hub]\r\n        One of the busiest cities on the continent. Here you can find all sorts of people from around the globe.",
+ 	 	 	 	"trans": "[Central Hub]\r\n        Jedno z najbardziej ruchliwych miast na kontynencie. Tutaj możesz znaleźć ludzi wszystkiego rodzaju z całego świata.",
  	 	 	 	"eng": "[Central Hub]\r\n        One of the busiest cities in the continent. Here you can find all sorts of people from around the globe."
  	 	 	},
  	 	 	"toStation": {
  	 	 	 	"name": {
- 	 	 	 	 	"trans": "Go to Hyper Train Central Station",
+ 	 	 	 	 	"trans": "Idź do Dworca Centralnego Hyper Train",
  	 	 	 	 	"eng": "Go to Hyper Train Central Station"
  	 	 	 	},
  	 	 	 	"tut": {
@@ -222,7 +222,7 @@
  	 	 	 	 	"eng": "Start your adventure for epic loot here"
  	 	 	 	},
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "Idź do Hyper Train Central Station",
+ 	 	 	 	 	"trans": "Idź do Dworca Centralnego Hyper Train",
  	 	 	 	 	"eng": "Go to Hyper Train Central Station"
  	 	 	 	}
  	 	 	},
@@ -238,17 +238,17 @@
  	 	 	},
  	 	 	"toMarket": {
  	 	 	 	"name": {
- 	 	 	 	 	"trans": "Idź do Shangri-La Market Street",
+ 	 	 	 	 	"trans": "Idź na Ulicę handlową Shangri-La",
  	 	 	 	 	"eng": "Go to Shangri-La Market Street"
  	 	 	 	},
  	 	 	 	"tut": {
- 	 	 	 	 	"trans": "Możesz sprzedawać lub kupować przedmioty z innych graczy tutaj",
+ 	 	 	 	 	"trans": "Tutaj możesz sprzedawać lub kupować przedmioty od innych graczy",
  	 	 	 	 	"eng": "You can sell or buy items from other players here"
  	 	 	 	}
  	 	 	},
  	 	 	"toGang": {
  	 	 	 	"name": {
- 	 	 	 	 	"trans": "Go to gang headquartesr",
+ 	 	 	 	 	"trans": "Idź do siedziby gangu",
  	 	 	 	 	"eng": "Go to gang headquarters"
  	 	 	 	}
  	 	 	}
@@ -259,28 +259,28 @@
  	 	 	 	"eng": "Shangri-La Commercial Area"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "[Job Hub]\r\n        Where many shops and businesses reside. It is the perfect location to try out your skills.",
+ 	 	 	 	"trans": "[Job Hub]\r\n        Tutaj znajduje się wiele sklepów i firm. Idealna lokalizacja do doskonalenia i szlifowania swoich umiejętności.",
  	 	 	 	"eng": "[Job Hub]\r\n        Here are many shops and businesses reside. The perfect location to hone and refine your skills."
  	 	 	},
  	 	 	"toMainHub": {
  	 	 	 	"name": {
- 	 	 	 	 	"trans": "Wróć do centrum Shangri-La City",
+ 	 	 	 	 	"trans": "Wróć do centrum miasta Shangri-La ",
  	 	 	 	 	"eng": "Return to Shangri-La City Center"
  	 	 	 	}
  	 	 	}
  	 	},
  	 	"market": {
  	 	 	"name": {
- 	 	 	 	"trans": "Sangri-La Market Street",
+ 	 	 	 	"trans": "Ulica handlowa Sangri-La",
  	 	 	 	"eng": "Shangri-La Market Street"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "[Player Market]\r\n        The famous street market in Shangri-La where loads of stalls fill the street.\r\n        Maybe you can find something you need or set up shop yourself.",
+ 	 	 	 	"trans": "[Player Market]\r\n        Słynny targ uliczny w Shangri-La, na którym mnóstwo straganów wypełnia ulicę.\r\n        Może znajdziesz coś, czego potrzebujesz lub sam założysz sklep.",
  	 	 	 	"eng": "[Player Market]\r\n        The famous market street in Shangri-La. Loads of market stalls fill the street.\r\n        Maybe you can find something you need or set up shop yourself."
  	 	 	},
  	 	 	"toMainHub": {
  	 	 	 	"name": {
- 	 	 	 	 	"trans": "Wróć do centrum Shangri-La City",
+ 	 	 	 	 	"trans": "Wróć do centrum miasta Shangri-La",
  	 	 	 	 	"eng": "Return to Shangri-La City Center"
  	 	 	 	}
  	 	 	}
@@ -291,14 +291,14 @@
  	 	 	 	"eng": "Hyper Train Central Station"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "[Adventure]\r\n        Using the hyperloop, you can travel at super speed across the continent with ease.",
+ 	 	 	 	"trans": "[Adventure]\r\n        Korzystając z hyperloop, możesz z łatwością podróżować po całym kontynencie z niezwykłą prędkością.",
  	 	 	 	"eng": "[Adventure]\r\n        Using the hyperloop, you can travel at supersonic speed across the continent with ease."
  	 	 	}
  	 	},
  	 	"zone": {
  	 	 	"backToMainHub": {
  	 	 	 	"name": {
- 	 	 	 	 	"trans": "Powrót do centrum miasta",
+ 	 	 	 	 	"trans": "Wróć do centrum miasta",
  	 	 	 	 	"eng": "Back to city center",
  	 	 	 	 	"vars": [
  	 	 	 	 	 	"mainHubName"
@@ -317,7 +317,7 @@
  	 	 	 	 	"vars": [
  	 	 	 	 	 	"segmentStationName"
  	 	 	 	 	],
- 	 	 	 	 	"trans": "Powrót do ${segmentStationName}",
+ 	 	 	 	 	"trans": "Wróć do ${segmentStationName}",
  	 	 	 	 	"eng": "back to ${segmentStationName}"
  	 	 	 	},
  	 	 	 	"description": {
@@ -334,7 +334,7 @@
  	 	 	 	 	"eng": "Return to Hyper Train Station"
  	 	 	 	},
  	 	 	 	"name": {
- 	 	 	 	 	"trans": "Powrót do dworca kolejowego Hyper",
+ 	 	 	 	 	"trans": "Wróć do dworca kolejowego Hyper",
  	 	 	 	 	"eng": "back to Hyper Train Station"
  	 	 	 	}
  	 	 	}
@@ -342,12 +342,12 @@
  	 	"segment": {
  	 	 	"locked": {
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "Gather all 3 unique Key Fragments from Dungeons in the previous station, \r\n                    then go to [Terminal] at City Center [Hub] to brute-force (Craft) the key required to unlock this area",
+ 	 	 	 	 	"trans": "Zbierz wszystkie 3 unikalne fragmenty klucza z lochów na poprzedniej stacji, \r\n                    następnie przejdź do [Terminal] w City Center [Hub], aby brute-force (Craft) klucz wymagany do odblokowania tego obszaru",
  	 	 	 	 	"eng": "Gather all 3 different Key Fragments from Dungeons in each 3 zones in previous station, \r\n                    then go to [Terminal] at City Center [Hub] to brute-force (Craft) the key required to unlock this area"
  	 	 	 	}
  	 	 	},
  	 	 	"tut": {
- 	 	 	 	"trans": "Start with the level 1 to 10 area",
+ 	 	 	 	"trans": "Zacznij od obszaru od 1 do 10 poziomu",
  	 	 	 	"eng": "Start with level 1 to 10 area"
  	 	 	},
  	 	 	"toZone": {
@@ -355,7 +355,7 @@
  	 	 	 	 	"vars": [
  	 	 	 	 	 	"segmentStationName"
  	 	 	 	 	],
- 	 	 	 	 	"trans": "Continue here to fight a level 1 enemy",
+ 	 	 	 	 	"trans": "Kontynuuj tutaj, aby walczyć z wrogiem na 1 poziomie",
  	 	 	 	 	"eng": "Continue here to fight level 1 enemy"
  	 	 	 	},
  	 	 	 	"description": {
@@ -378,7 +378,7 @@
  	 	 	 	 	"segment",
  	 	 	 	 	"segmentMaxLevel"
  	 	 	 	],
- 	 	 	 	"trans": "Poznaj ${segment} do ${segmentMaxLevel}",
+ 	 	 	 	"trans": "Poziom ${segment} do ${segmentMaxLevel}",
  	 	 	 	"eng": "Level ${segment} to ${segmentMaxLevel}"
  	 	 	},
  	 	 	"goTo": {
@@ -391,11 +391,11 @@
  	 	},
  	 	"gang": {
  	 	 	"name": {
- 	 	 	 	"trans": "Siedziba gangów",
+ 	 	 	 	"trans": "Siedziba gangu",
  	 	 	 	"eng": "Gang Headquarters"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "[Gang]\r\n        The headquarters for you and your gang members to plan and execute the next operation",
+ 	 	 	 	"trans": "[Gang]\r\n        Siedziba dla Ciebie i członków Twojego gangu, do planowania i przeprowadzania kolejnych operacji",
  	 	 	 	"eng": "[Gang]\r\n        The headquarters for you and your gang members to plan and execute your next operation"
  	 	 	},
  	 	 	"cantEnterError": {
@@ -410,14 +410,14 @@
  	 	 	 	"vars": [
  	 	 	 	 	"levelName"
  	 	 	 	],
- 	 	 	 	"trans": "Doświadczenie Shard [${levelName}]",
+ 	 	 	 	"trans": "Odłamek doświadczenia [${levelName}]",
  	 	 	 	"eng": "Experience Shard [${levelName}]"
  	 	 	},
  	 	 	"description": {
  	 	 	 	"vars": [
  	 	 	 	 	"levelName"
  	 	 	 	],
- 	 	 	 	"trans": "A shard that contains someone's memories and experiences. If used, you may gain ${levelName} experience from this",
+ 	 	 	 	"trans": "Odłamek zawierający czyjeś wspomnienia i doświadczenia. Jeśli użyjesz, możesz zyskać dzięki temu ${levelName} doświadczenie",
  	 	 	 	"eng": "A shard that contains someone's memory and experience. If used you may gain ${levelName} experience from this"
  	 	 	}
  	 	},
@@ -427,14 +427,14 @@
  	 	 	 	 	"segmentDisplayName",
  	 	 	 	 	"fragmentNum"
  	 	 	 	],
- 	 	 	 	"trans": "${segmentDisplayName} Kluczowy fragment ${fragmentNum}",
+ 	 	 	 	"trans": "${segmentDisplayName} Fragment klucza ${fragmentNum}",
  	 	 	 	"eng": "${segmentDisplayName} Key Fragment ${fragmentNum}"
  	 	 	},
  	 	 	"description": {
  	 	 	 	"vars": [
  	 	 	 	 	"segmentDisplayName"
  	 	 	 	],
- 	 	 	 	"trans": "Secret key Fragment. Used to brute-force a secret key.\r\n                                Use the Terminal at City Center [Hub] to brute-force a ${segmentDisplayName} secret key.\r\n                                You can acquire each of the 3 required keys in each dungeon (both normal and challenge).\r\n                                When you have acquired the 3 keys, you may use Terminal to brute-force (Craft) the key to the next area",
+ 	 	 	 	"trans": "Fragment sekretnego klucza używany do brute-force tajnego klucza.\r\n                                Użyj terminalu w centrum miasta [Hub] do brute-force tajnego klucza ${segmentDisplayName}.\r\n                                Możesz zdobyć każdy z 3 wymaganych kluczy w dowolnym lochu (zarówno w normalnym, jak i w wymagającym).\r\n                                Kiedy zdobędziesz 3 klucze, możesz użyć Terminalu do brute-force (Craft) klucza do następnego obszaru",
  	 	 	 	"eng": "A secret key Fragment used to brute-force a secret key.\r\n                                Use the Terminal at city center [Hub] to brute-force a ${segmentDisplayName} secret key.\r\n                                You can acquire each of the 3 required keys in each dungeon (both normal or challenge),\r\n                                when you acquired 3 keys, you may use Terminal to brute-force (Craft) a key to the next area"
  	 	 	}
  	 	},
@@ -451,7 +451,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"typeName"
  	 	 	 	],
- 	 	 	 	"trans": "A ${typeName} cache contains information used for Molecular 3D Printing. \r\n                    You can create a ${typeName} with the [Molecular 3d Printer] at [Central Hub].\r\n                    \r\n                    Pro tip: The level of the item you get from printing is determined by your Printing Rank,\r\n                    so always print the trash ones first, as they cost less and are useful to level up your Printing Rank",
+ 	 	 	 	"trans": "Pamięć podręczna ${typeName} zawiera informacje używane do molekularnego drukowania 3D. \r\n                    Możesz stworzyć ${typeName} za pomocą [Molecular 3d Printer] w [Central Hub].\r\n                    \r\n                    Wskazówka: Poziom przedmiotu, który otrzymasz z drukowania, zależy od twojej Rangi drukowania,\r\n                    więc zawsze najpierw drukuj śmieci, ponieważ kosztują mniej i są przydatne do podniesienia twojej rangi drukowania",
  	 	 	 	"eng": "A ${typeName} cache contains information used for Molecular 3D Printing, \r\n                    You can create a ${typeName} with the [Molecular 3d Printer] at [Central Hub].\r\n                    \r\n                    Pro tip: The level of item you get from printing is determined by your Printing Rank,\r\n                    so always print the trash ones first, as they cost less and useful to level up your Printing Rank"
  	 	 	}
  	 	},
@@ -463,13 +463,13 @@
  	 	},
  	 	"upperArmor": {
  	 	 	"name": {
- 	 	 	 	"trans": "górna pancerz",
+ 	 	 	 	"trans": "górny pancerz",
  	 	 	 	"eng": "upper armor"
  	 	 	}
  	 	},
  	 	"lowerArmor": {
  	 	 	"name": {
- 	 	 	 	"trans": "dolna zbroja",
+ 	 	 	 	"trans": "dolny pancerz",
  	 	 	 	"eng": "lower armor"
  	 	 	}
  	 	},
@@ -481,97 +481,97 @@
  	 	},
  	 	"upgradeModule": {
  	 	 	"name": {
- 	 	 	 	"trans": "Moduł uaktualnienia",
+ 	 	 	 	"trans": "Moduły ulepszenia",
  	 	 	 	"eng": "upgrade module"
  	 	 	}
  	 	},
  	 	"healing1": {
  	 	 	"name": {
- 	 	 	 	"trans": "Bóle",
+ 	 	 	 	"trans": "Ból z dala",
  	 	 	 	"eng": "Pain Away"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Do you have a headache? Use Pain Away™ to relieve your pain!",
+ 	 	 	 	"trans": "Czy masz ból głowy? Użyj Ból z dala™, aby złagodzić ból!",
  	 	 	 	"eng": "Do you have headache? Use Pain Away™ to relieve your pain!"
  	 	 	}
  	 	},
  	 	"healing2": {
  	 	 	"name": {
- 	 	 	 	"trans": "Degraded Nano Repair Bot",
+ 	 	 	 	"trans": "Zdegradowany Nano Bot naprawczy",
  	 	 	 	"eng": "Degraded Nano Repair Bot"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "An old nano repair bot. Used to repair small tech devices.",
+ 	 	 	 	"trans": "Stary Nano Bot naprawczy. Służy do naprawy małych urządzeń technicznych.",
  	 	 	 	"eng": "An old nano repair bot, usually used to repair small tech devices."
  	 	 	}
  	 	},
  	 	"healing3": {
  	 	 	"name": {
- 	 	 	 	"trans": "Degraded Nano Medic Bot",
+ 	 	 	 	"trans": "Zdegradowany Nano Bot medyczny",
  	 	 	 	"eng": "Degraded Nano Medic Bot"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "An old nano medic bot. Inject it to cure any(*conditions apply) injury!",
+ 	 	 	 	"trans": "Stary Nano Bot medyczny. Wstrzyknij, aby wyleczyć (*obowiązują warunki) obrażenia!",
  	 	 	 	"eng": "Old nano medic bot is used to cure any (*conditions apply) injury!"
  	 	 	}
  	 	},
  	 	"healing4": {
  	 	 	"name": {
- 	 	 	 	"trans": "Nano lekarz bot",
+ 	 	 	 	"trans": "Nano Bot leczniczy",
  	 	 	 	"eng": "Nano Medic Bot"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Inject it to cure any (*conditions apply) injury!",
+ 	 	 	 	"trans": "Wstrzyknij, aby wyleczyć (*obowiązują warunki) obrażenia!",
  	 	 	 	"eng": "Inject it to cure any(*conditions apply) injury!"
  	 	 	}
  	 	},
  	 	"healing5": {
  	 	 	"name": {
- 	 	 	 	"trans": "Military-Grade Nano Medic Bot",
+ 	 	 	 	"trans": "Wojskowy Nano Bot medyczny",
  	 	 	 	"eng": "Military Nano Medic Bot"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Injectable nano machines that are standard issue for military use. Capable of patching injuries while in combat.",
+ 	 	 	 	"trans": "Nano maszyny do wstrzykiwania, które są standardowym wyposażeniem do użytku wojskowego. Zdolny do łatania obrażeń podczas walki.",
  	 	 	 	"eng": "Injectable nano machines that are standard issue for military use. They are capable of patching injuries while in combat."
  	 	 	}
  	 	},
  	 	"healing6": {
  	 	 	"name": {
- 	 	 	 	"trans": "Advanced Nano Medic Bot",
+ 	 	 	 	"trans": "Zaawansowany Nano Bot medyczny",
  	 	 	 	"eng": "Advanced Nano Medic Bot"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Injectable nano machines that are used in the military. They are capable of patching injuries while in combat.",
+ 	 	 	 	"trans": "Wstrzykiwalne nanomaszyny przeznaczone do zaawansowanych zastosowań wojskowych. Potrafi załatać obrażenia w sytuacjach bojowych.",
  	 	 	 	"eng": "Injectable nano machines that are standard issue for military use. They're capable of patching injuries while in combat."
  	 	 	}
  	 	},
  	 	"healing7": {
  	 	 	"name": {
- 	 	 	 	"trans": "Wysokiej jakości Nano Medic Bot",
+ 	 	 	 	"trans": "Nano Bot medyczny Wysokiej jakości",
  	 	 	 	"eng": "High Quality Nano Medic Bot"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Injectable nano machines that are for advanced military use. Capable of patching up injuries in combat situations.",
+ 	 	 	 	"trans": "Wstrzykiwalne nanomaszyny przeznaczone do zaawansowanych zastosowań wojskowych. Potrafi załatać obrażenia w sytuacjach bojowych",
  	 	 	 	"eng": "Injectable nano machines that are standard issue for military use. They're capable of patching injuries while in combat."
  	 	 	}
  	 	},
  	 	"healing8": {
  	 	 	"name": {
- 	 	 	 	"trans": "Rzadki nano lekarz bot",
+ 	 	 	 	"trans": "Rzadki Nano Bot medyczny",
  	 	 	 	"eng": "Rare Nano Medic Bot"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Injectable nano machines that are for advanced military use. Capable of patching up injuries in combat situations.",
+ 	 	 	 	"trans": "Wstrzykiwalne nanomaszyny przeznaczone do zaawansowanych zastosowań wojskowych. Potrafi załatać obrażenia w sytuacjach bojowych.",
  	 	 	 	"eng": "Injectable nano machines that are standard issue for military use. They're capable of patching injuries while in combat."
  	 	 	}
  	 	},
  	 	"healingArea1": {
  	 	 	"name": {
- 	 	 	 	"trans": "Bóle spray",
+ 	 	 	 	"trans": "Spray ból z dala",
  	 	 	 	"eng": "Pain Away Spray"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Do you and your friends have headaches? Use Pain Away Spray™ to relieve your pain!",
+ 	 	 	 	"trans": "Czy ty i twoi przyjaciele macie bóle głowy? Użyj Spray ból z dala™, aby złagodzić ból!",
  	 	 	 	"eng": "Do you and your friends both have headaches? Use Pain Away Spray™ to relief your pain!"
  	 	 	}
  	 	},
@@ -581,17 +581,17 @@
  	 	 	 	"eng": "Degraded Repair drone"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "An old repair drone. Capable of repairing or healing nearby players.",
+ 	 	 	 	"trans": "Stary dron naprawczy. Może naprawiać lub leczyć pobliskich graczy.",
  	 	 	 	"eng": "Old repair drone, capable of repairing or heal nearby players"
  	 	 	}
  	 	},
  	 	"healingArea3": {
  	 	 	"name": {
- 	 	 	 	"trans": "Degraded Nano Medic Drone",
+ 	 	 	 	"trans": "Zdegradowany Nano dron medyczny",
  	 	 	 	"eng": "Degraded nano medic drone"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "An old nano medic drone. Capable of dispatching thousands of nano machines to heal nearby players.",
+ 	 	 	 	"trans": "Stary Nano dron medyczny. Zdolne do wysyłania tysięcy nanomaszyn do leczenia pobliskich graczy.",
  	 	 	 	"eng": "Old nano drone, capable of dispatching thousands of nano machines to heal nearby players"
  	 	 	}
  	 	},
